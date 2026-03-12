@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - --entitlements /Users/semabdulazizova/Desktop/Hangman-game/HangmanGame/obj/Debug/net8.0-maccatalyst/maccatalyst-x64/Entitlements.xcent /Users/semabdulazizova/Desktop/Hangman-game/HangmanGame/bin/Debug/net8.0-maccatalyst/maccatalyst-x64/HangmanGame.app
